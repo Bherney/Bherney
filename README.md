@@ -98,8 +98,8 @@ I'm a geospatial scientist and geoscientist based in **Ibadan, Nigeria**, with a
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bherney&show_icons=true&hide_border=true&theme=transparent&title_color=1A7A4A&icon_color=1A7A4A&text_color=6e7681" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bherney&layout=compact&hide_border=true&theme=transparent&title_color=1A7A4A&text_color=6e7681" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bherney&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bherney&theme=github_dark" alt="Repos per language" />
 </p>
 
 <p align="center">
