@@ -20,12 +20,12 @@
 
 I'm a geospatial scientist and geoscientist based in **Ibadan, Nigeria**, with an **MSc in Geographic Information Science** and a **BSc in Geology** from the University of Ibadan. I like to own a problem end to end: raw satellite data → modelling and validation → a result decision-makers can act on.
 
-- 🔭 Currently building **[HeatSense Nigeria](https://heatsense.netlify.app/)**, an open-source GeoAI system for heatwave characterisation, vulnerability modelling and early warning
-- 🧠 Working on deep learning for Earth observation, explainable ML for flood and environmental risk, and space-time pattern mining
-- 🏆 **2026 Esri Young Scholar Award (Nigeria)** · GRSS West Africa **Best Poster Award**
-- 🌱 Founder of **GeoDev Lab Africa**, a free pan-African programme turning GIS analysts into geospatial developers: **565 participants from 24 countries**
-- 💼 Lead at **Bherney Spatial Consult**, delivering applied spatial analysis for research and planning clients
-- 👨🏾‍🏫 Trained **580+ students and staff** in ArcGIS Pro
+- Currently building **[HeatSense Nigeria](https://heatsense.netlify.app/)**, an open-source GeoAI system for heatwave characterisation, vulnerability modelling and early warning
+- Working on deep learning for Earth observation, explainable ML for flood and environmental risk, and space-time pattern mining
+- **2026 Esri Young Scholar Award (Nigeria)** · GRSS West Africa **Best Poster Award**
+- Founder of **GeoDev Lab Africa**, a free pan-African programme turning GIS analysts into geospatial developers: **565 participants from 24 countries**
+- Lead at **Bherney Spatial Consult**, delivering applied spatial analysis for research and planning clients
+- Trained **580+ students and staff** in ArcGIS Pro
 
 ---
 
@@ -48,7 +48,7 @@ I'm a geospatial scientist and geoscientist based in **Ibadan, Nigeria**, with a
 
 - **Waheeb, T.**, Adeyefa, A., & Oguntoyinbo, O. (2026). *Pattern of air pollutants and land surface temperature in Nigeria using space-time pattern mining techniques.* **Theoretical and Applied Climatology**, 157, 579. [doi:10.1007/s00704-026-06507-1](https://doi.org/10.1007/s00704-026-06507-1)
 - Badmos, Y. M., Taiwo, O. J., Eze, S. N., & **Waheeb, T. B.** (2025). *Spatial distribution and residents' satisfaction with urban green spaces in Ibadan.* **The Nigerian Geographical Journal**, Special Issue, 412–428.
-- 📝 Plus **6 manuscripts under review**, including explainable GeoAI for dam-driven flood susceptibility (Upper Benue Basin) and transformer segmentation for marine pollution monitoring. Full list on my [portfolio](https://bherney.github.io/Portfolio/).
+- 📝 Plus **4 manuscripts under review**, including explainable GeoAI for dam-driven flood susceptibility (Upper Benue Basin) and transformer segmentation for marine pollution monitoring. Full list on my [portfolio](https://bherney.github.io/Portfolio/).
 
 ---
 
